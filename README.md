@@ -43,16 +43,25 @@ Spinning up instances on AWS servers using the knife bootstrap command. This can
 ## Step 4:(kitchen testing / Testing the cookbook)
 
 We can actually test our cookbooks on a 
+
 1)cloud instance
+
 2)inside of a doc or container
+
 3)by creating a virtual machine   
 
 ## 6 steps:
+
 Create virtual machine 
+
 Install chef tools
+
 Copy cookbooks
+
 Run/apply cookbooks
+
 Verify assumptions
+
 Destroy virtual Machine
 
 
